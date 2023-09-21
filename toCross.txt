@@ -1,0 +1,1 @@
+replace the files in opt/cxoffice/lib/wine folder and opt/cxoffiice/lib64/wine folder

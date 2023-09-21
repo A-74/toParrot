@@ -1,0 +1,10 @@
+https://stackoverflow.com/questions/20258206/how-to-generate-a-so-file
+https://www.google.com/search?client=firefox-b-d&q=.so+editor+linux+github
+https://reverseengineering.stackexchange.com/questions/2664/how-to-decompile-linux-so-library-files-from-a-ms-windows-os
+https://unix.stackexchange.com/questions/372111/how-to-change-text-in-shared-libraries-so-files-in-linux
+https://www.google.com/search?client=firefox-b-d&q=vi+editor
+
+
+
+https://github.com/gloriouseggroll/wine-ge-custom
+with liturs
